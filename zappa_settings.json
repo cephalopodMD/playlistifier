@@ -1,0 +1,8 @@
+{
+    "dev": {
+        "app_function": "playlistifier.app", 
+        "aws_region": "us-east-1", 
+        "profile_name": "default", 
+        "s3_bucket": "zappa-dccrjnb21"
+    }
+}
